@@ -1,4 +1,4 @@
-The task is to create a mock Netflix like page with editable rows of titles using any framework you want (preferably React).
+The task is to create a mock Netflix like page with editable rows of titles using React. 
 
 You are given the following JSON object which will serve as mock back­end data: 
 ````
@@ -90,8 +90,6 @@ the image.
 
 4)Hovering over an image in the recommendations row should create an “Add” button displayed
 
-below the image. 
-
-5)Clicking on the button should add the title to the “My List” row.
+below the image, Clicking on the button should add the title to the “My List” row.
 
 6)The list of titles in the “My List” row should be displayed at the bottom of the page.
